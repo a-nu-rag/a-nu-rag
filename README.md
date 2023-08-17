@@ -18,7 +18,7 @@
   - [Patatap](https://github.com/a-nu-rag/Patatap)
   - [Todo list](https://github.com/itsme-jdl/todo)
 
-- <b>Web Landing Pages</b>
+- <b>Front-end</b>
   - [Portfolio](https://github.com/a-nu-rag/Portfolio)
   - [Apna Dhaba](https://github.com/a-nu-rag/apna-dhaba)
 
